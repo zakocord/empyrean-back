@@ -2,14 +2,14 @@
 
 <div align="center">
     <br>
-    <img src="https://img.shields.io/github/languages/top/addi00000/empyrean?color=%23000000">
-    <img src="https://img.shields.io/github/stars/addi00000/empyrean?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/languages/top/duckboxxer/empyrean-back?color=%23000000">
+    <img src="https://img.shields.io/github/stars/duckboxxer/empyrean-back?color=%23000000&logoColor=%23000000">
     <br>
-    <img src="https://img.shields.io/github/commit-activity/w/addi00000/empyrean?color=%23000000"> 
-    <img src="https://img.shields.io/github/last-commit/addi00000/empyrean?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/commit-activity/w/duckboxxer/empyrean-back?color=%23000000"> 
+    <img src="https://img.shields.io/github/last-commit/duckboxxer/empyrean-back?color=%23000000&logoColor=%23000000">
     <br>
-    <img src="https://img.shields.io/github/issues/addi00000/empyrean?color=%23000000&logoColor=%23000000">
-    <img src="https://img.shields.io/github/issues-closed/addi00000/empyrean?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/issues/duckboxxer/empyrean-back?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/issues-closed/duckboxxer/empyrean-back?color=%23000000&logoColor=%23000000">
 </div>
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
