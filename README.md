@@ -1,6 +1,9 @@
+
 <img src="img/banner.png" width="100%" height="100%" />
 
 <div align="center">
+    <h1>This project is no longer working!<h1>
+    <h2>The reason is that Discord and Chorme have introduced cookies and other encryption<h2>
     <br>
     <img src="https://img.shields.io/github/languages/top/duckboxxer/empyrean-back?color=%23000000">
     <img src="https://img.shields.io/github/stars/duckboxxer/empyrean-back?color=%23000000&logoColor=%23000000">
